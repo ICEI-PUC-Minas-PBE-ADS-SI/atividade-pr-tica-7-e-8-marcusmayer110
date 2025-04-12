@@ -12,9 +12,9 @@ Leia o enunciado completo no Canvas.
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
+- Nome: Marcus Magnus de Almeida Mayer
+- Matricula: 888471
+- Proposta de projeto escolhida: catalogo 
 - Breve descrição sobre seu projeto:
 
 ## Print da versão responsiva com CSS puro
