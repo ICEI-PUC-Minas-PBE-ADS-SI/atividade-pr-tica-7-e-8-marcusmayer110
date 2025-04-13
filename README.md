@@ -17,10 +17,14 @@ Leia o enunciado completo no Canvas.
 - Proposta de projeto escolhida: catalogo 
 - Breve descrição sobre seu projeto:
 
-## Print da versão responsiva com CSS puro
-
-<<  COLOQUE A IMAGEM AQUI >>
 
 ## Print da versão responsiva com Bootstrap
 
-<<  COLOQUE A IMAGEM AQUI >>
+![alt text](<public/images/home-page-cards (1).png>)
+
+--home page com cards e link pelo js levando a pagina detalhes pro item selecionado
+
+
+![alt text](public/images/pagina-detalhes-atualizada.png)
+
+--pagina detalhes atualizada de acordo com o item clicado, ambas paginas acima responsivas (print tirado da pagina com visualização menor de um disp.mobile).
